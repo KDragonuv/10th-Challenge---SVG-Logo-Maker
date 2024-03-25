@@ -1,6 +1,10 @@
 const inquirer = require('inquirer');  
 const fs = require('fs');
-const generateSVG = require('./lib');  
+const { Circle, Triangle, Square, generateSVG } = require('./lib/svgShapes');
+
+const circle = new Circle();
+const triangle = new Triangle();
+const square = new Square();
 
 async function main() { // <= Questions of design & Lettering to the user. 
   try {
