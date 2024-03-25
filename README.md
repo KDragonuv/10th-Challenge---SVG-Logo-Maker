@@ -32,11 +32,8 @@ WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
 
-## Mindmap
+## Presented work examples
 
-logo-generator
-|-- src
-|   |-- index.js
-|-- test
-|   |-- index.test.js
-|-- package.json
+(![alt text](assets/imgSVG-screenshot.JPG))
+
+![alt text](assets/logosvg-screenshot.JPG)

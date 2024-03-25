@@ -1,0 +1,7 @@
+<svg width="300" height="170" xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="150" height="150" x="10" y="10" style="fill:blue;stroke:pink;stroke-width:5;opacity:0.5" /> 
+
+  <text x="85" y="105" font-size="60" text-anchor="middle" fill="white">SVG</text>
+
+</svg>
